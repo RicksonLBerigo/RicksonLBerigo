@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Rickson Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricksonlberigo&color=yellow" alt="Profile views" /> </p>
 
+- 👽 I am Junior Web Developer
+- 🔭 I am currently working at the company Hypersoft Software House
+- 🌱 I'm currently learning back end development and studying computer engineering
+- 💬 Ask me about **HTML, CSS, Java Script, PHP, React**
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -46,13 +51,13 @@ Here are some ideas to get you started:
 ## 📱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/rickson_berigo" target="_blank">
+<a href="https://twitter.com/rickson_berigo" target="__blank">
   <img align="center" src="https://img.shields.io/badge/-ricksonlucas-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/ricksonl-berigo/" target="_blank">
+<a href="https://www.linkedin.com/in/ricksonl-berigo/" target="__blank">
   <img align="center" src="https://img.shields.io/badge/-ricksonlucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/berigo_rickson/" target="_blank">
+<a href="https://www.instagram.com/berigo_rickson/" target="__blank">
  <img align="center" src="https://img.shields.io/badge/-ricksonlucas-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
