@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ricksonlberigo/15bd609ae721c30add3fae9de69589db/raw/5e84f49bc6795a6571ab2235887a16d201e13575/perfil.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Rickson Lucas</h1>
+<h1 align="left">Hail guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Rickson Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricksonlberigo&color=yellow" alt="Profile views" /> </p>
 
 - 👽 I am Junior Web Developer
