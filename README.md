@@ -42,10 +42,15 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ricksonlberigo&show_icons=true&theme=vision-friendly-dark" alt="ricksonlberigo's stats"/>
+
+  <br>
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricksonlberigo&layout=compact&theme=vision-friendly-dark" alt="ricksonlberigo's most languages"/>
 </p>
 
